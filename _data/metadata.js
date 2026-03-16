@@ -7,5 +7,5 @@ module.exports = {
 		name: "Your Name Here",
 		email: "youremailaddress@example.com",
 		url: "https://example.com/about-me/"
-	}
+	}fuchch j
 }
